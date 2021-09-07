@@ -20,6 +20,7 @@ export const WelcomeScreen = () => {
 // props.focus(value);
   return (
     <View>
+      <Text>Hello</Text>
       <View style={styles.container}>
         <Text style={{ color: "white" }}>Input Your Requirement? </Text>
       </View>
